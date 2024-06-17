@@ -5,7 +5,10 @@
 	<project_license>GPL-3.0-or-later</project_license>
 	<name>Resonance</name>
 	<summary>Harmonize your listening experience</summary>
-	<developer_name>nate-xyz</developer_name>
+	<developer_name translate="no">nate-xyz</developer_name>
+    <developer id="io.github.nate_xyz">
+      <name translate="no">nate-xyz</name>
+    </developer>
 	<description>
 	  <p>Resonance is an intuitive music player application written in Rust and Python, with a clean user interface built using the GTK4 / Libadwaita framework. Resonance lets you effortlessly manage and play your music collection, with support for all the common music file formats.</p>
     <p>Features:</p>
