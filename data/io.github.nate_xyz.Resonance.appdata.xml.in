@@ -72,9 +72,8 @@
   </custom>
   <content_rating type="oars-1.1"/>
 
-
-	<screenshots>
-    <screenshot>
+  <screenshots>
+    <screenshot type="default">
       <image>https://raw.githubusercontent.com/nate-xyz/resonance/main/data/screenshots/resonance2.png</image>
     </screenshot>
     <screenshot>
