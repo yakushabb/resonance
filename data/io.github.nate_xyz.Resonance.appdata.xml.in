@@ -23,6 +23,7 @@
   </description>
 	<provides>io.github.nate_xyz.Resonance.desktop</provides>
   <launchable type="desktop-id">io.github.nate_xyz.Resonance.desktop</launchable>
+  <translation type="gettext">resonance</translation>
 
 	<url type="homepage">https://github.com/nate-xyz/resonance</url>
   <url type="bugtracker">https://github.com/nate-xyz/resonance/issues</url>
@@ -57,7 +58,6 @@
     <release version="0.1.0" date="2023-03-30"/>
   </releases>
 
-	<translation type="gettext">resonance</translation>
   <kudos>
     <kudo>ModernToolkit</kudo>
     <kudo>HiDpiIcon</kudo>
