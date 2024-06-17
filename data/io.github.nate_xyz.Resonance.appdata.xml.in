@@ -36,7 +36,7 @@
 
 	<releases>
     <release version="0.1.3" date="2023-04-09">
-      <description>
+      <description translate="no">
         <ul>
           <li>MPRIS bugfix</li>
           <li>Dark mode by default</li>
@@ -45,14 +45,14 @@
       </description>
     </release>
     <release version="0.1.2" date="2023-04-06">
-      <description>
+      <description translate="no">
         <ul>
           <li>Add Last.fm support</li>
         </ul>
       </description>
     </release>
     <release version="0.1.1" date="2023-04-04">
-      <description>
+      <description translate="no">
         <ul>
           <li>Use album cover art if track cover art empty</li>
           <li>URI encoding for player pipeline bugfix</li>
